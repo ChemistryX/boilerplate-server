@@ -1,0 +1,5 @@
+# node related
+node_modules/
+
+# secure environment variables
+.env
